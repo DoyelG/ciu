@@ -23,3 +23,6 @@
 
 >[!TIP|label:CSS Frameworks]
 >Vienen en nuestra ayuda los [CSS frameworks](/05-css-frameworks/)
+
+>[!TIP|label:Primer Hackaton]
+>Vienen en nuestra ayuda los [Primer Hackaton](/06-primer-hackaton/)
